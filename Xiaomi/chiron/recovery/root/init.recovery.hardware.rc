@@ -1,0 +1,3 @@
+on boot
+    setprop sys.usb.configfs 1
+# Xiaomi Mi Mix 2 (chiron)
